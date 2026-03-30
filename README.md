@@ -29,5 +29,5 @@ and Simple Reflex Agent systems. The vacuum cleaner agent perceives its environm
 - README.md — this documentation file
 
 # Developed by
-Name- ASHI GUPTA
+Name- ASHI GUPTA       
 Registration no.- 25BCE10041
