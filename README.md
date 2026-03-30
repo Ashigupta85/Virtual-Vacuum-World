@@ -13,6 +13,17 @@ Two-room vacuum world environment simulation
 
 The program will simulate the vacuum agent cleaning both rooms, printing out the vacuum's location, room dirtiness, and chosen actions at each step until all rooms are clean.
 
+# Technology Used
+This project is based on Artificial Intelligence (AI), specifically on Intelligent Agents 
+and Simple Reflex Agent systems. The vacuum cleaner agent perceives its environment 
+(two rooms) and takes actions based on current conditions (clean or dirty).
+
+# Concepts used:
+- Agent-based modeling
+- Environment perception
+- Simple reflex decision-making
+- State space representation
+
 # program Structure
 - Vacuum_world.py — main script containing environment and agent classes
 - README.md — this documentation file
